@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/nsbW7fD/photo6240145520819546515.jpg">
 # Kodingan buat meet up pertama Surabaya.py di tahun 2020
 1. Clone/Pull repositorinya
 2. Masuk ke dalam direktori tersebut lewat terminal/CMD
